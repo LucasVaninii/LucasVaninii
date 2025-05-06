@@ -30,17 +30,7 @@ Tenho conhecimentos adquiridos através de estudos e projetos anteriores à minh
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvanini&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvanini&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
----
-
 ### 📫 Entre em contato
 
-- 📧 Email: *[adicione aqui seu email se quiser]*
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) *(me manda o link que eu coloco certinho!)*  
-- 🚀 [Portfólio](https://seu-portfolio.com) *(se tiver, me avisa que coloco)*
+- 📧 Email: *lucassvaninii@gmail.com*
+- 🌐 [LinkedIn] https://www.linkedin.com/in/lucasvanini/
